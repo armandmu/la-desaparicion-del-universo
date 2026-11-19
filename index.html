@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101720">
+  <meta name="description" content="Cuaderno personal de las 51 prácticas de La Desaparición del Universo: 17 capítulos, protocolos, diario y seguimiento.">
+  <title>La Desaparición del Universo · Cuaderno de prácticas</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="style.css">
+  <script defer src="content.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Saltar al contenido</a>
+  <div class="shell">
+    <aside class="sidebar" aria-label="Navegación principal">
+      <a href="#/inicio" class="brand" aria-label="Volver al inicio">
+        <span class="brand-symbol" aria-hidden="true">✳</span>
+        <span class="brand-text"><strong>LA DESAPARICIÓN<br>DEL UNIVERSO</strong><small>CUADERNO DE PRÁCTICAS</small></span>
+      </a>
+      <div class="side-label">MI ESPACIO</div>
+      <nav class="side-nav" id="side-nav">
+        <a href="#/inicio" data-nav="inicio"><span aria-hidden="true">⌂</span> Inicio</a>
+        <a href="#/capitulos" data-nav="capitulos"><span aria-hidden="true">▦</span> Capítulos y técnicas</a>
+        <a href="#/diario" data-nav="diario"><span aria-hidden="true">▤</span> Mi diario</a>
+        <a href="#/frases" data-nav="frases"><span aria-hidden="true">❝</span> Frases clave</a>
+        <a href="#/datos" data-nav="datos"><span aria-hidden="true">⇩</span> Mis datos</a>
+      </nav>
+      <div class="sidebar-bottom">
+        <div class="mini-progress"><span>Mi recorrido</span><strong id="sidebar-progress">0/51</strong></div>
+        <div class="progress-track"><div id="sidebar-bar" class="progress-fill" style="width:0%"></div></div>
+        <p>Las anotaciones se guardan solo en este navegador. Haz copias en «Mis datos».</p>
+      </div>
+    </aside>
+    <div class="main-column">
+      <header class="topbar">
+        <div class="topbar-heading"><span class="topbar-asterisk">✳</span><span>Un espacio para tu práctica personal</span></div>
+        <div class="topbar-actions"><button id="quick-search" class="tiny-button" type="button" title="Buscar técnicas">⌕ <span>Buscar</span></button><a href="#/diario" class="button button-small button-outline">Abrir diario ↗</a></div>
+      </header>
+      <main id="main" class="main-content" tabindex="-1" aria-live="polite"></main>
+      <footer class="footer">Cuaderno independiente basado en el documento facilitado · Interpretaciones espirituales del material, no afirmaciones científicas.</footer>
+    </div>
+  </div>
+  <nav class="mobile-nav" aria-label="Navegación móvil">
+    <a href="#/inicio" data-nav="inicio"><span aria-hidden="true">⌂</span>Inicio</a>
+    <a href="#/capitulos" data-nav="capitulos"><span aria-hidden="true">▦</span>Prácticas</a>
+    <a href="#/diario" data-nav="diario"><span aria-hidden="true">▤</span>Diario</a>
+    <a href="#/datos" data-nav="datos"><span aria-hidden="true">⇩</span>Datos</a>
+  </nav>
+  <div role="status" id="toast" class="toast" aria-live="polite"></div>
+</body>
+</html>
