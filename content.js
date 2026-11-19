@@ -78,7 +78,7 @@ window.LDU_DATA={
       "title": "Reconocimiento de la ilusión",
       "description": "Observar que el mundo no es real y que nuestras percepciones están basadas en proyecciones del ego.",
       "steps": [
-        "Ante cualquier conflicto, recuerda: \"Esto no está ocurriendo en la",
+        "Ante cualquier conflicto, recuerda: \"Esto no está ocurriendo en la realidad\".",
         "Afirma: \"Estoy viendo un sueño. Nada real puede ser amenazado\".",
         "Entrégalo al Espíritu Santo para reinterpretarlo."
       ]
@@ -102,7 +102,7 @@ window.LDU_DATA={
       "title": "Recordar que no hay nadie fuera",
       "description": "Toda percepción es un reflejo de uno mismo.",
       "steps": [
-        "Cuando sientas molestia por otra persona, di: “Esto viene de mi",
+        "Cuando sientas molestia por otra persona, di: “Esto viene de mi mente”.",
         "Deja de proyectar la causa fuera y observa tu propia mente.",
         "Practica el perdón reconociendo que no hay separación."
       ]
@@ -115,7 +115,7 @@ window.LDU_DATA={
       "description": "La culpa es la raíz del ego. El perdón la deshace.",
       "steps": [
         "Identifica una situación donde sientes culpa.",
-        "Recuerda que no es real, sólo un símbolo del pensamiento de",
+        "Recuerda que no es real, sólo un símbolo del pensamiento de separación.",
         "Elige perdonar esa imagen como una proyección sin causa real."
       ]
     },
@@ -138,7 +138,7 @@ window.LDU_DATA={
       "title": "Soltar la identificación con el cuerpo",
       "description": "La identidad con el cuerpo refuerza la ilusión.",
       "steps": [
-        "En momentos de preocupación por el cuerpo, recuerda: “No soy un",
+        "En momentos de preocupación por el cuerpo, recuerda: “No soy un cuerpo”.",
         "Reafirma: “Soy libre. Sigo siendo tal como Dios me creó”.",
         "Repite esto como meditación cada vez que sientas apego físico."
       ]
@@ -162,7 +162,7 @@ window.LDU_DATA={
       "title": "Uso de frases del Curso como anclajes mentales",
       "description": "Usar frases clave para redirigir la mente.",
       "steps": [
-        "Escribe o memoriza frases como: “El perdón es la llave de la",
+        "Escribe o memoriza frases como: “El perdón es la llave de la felicidad”.",
         "Repite en momentos de dificultad o distracción.",
         "Usa las frases como meditación o al empezar el día."
       ]
@@ -222,7 +222,7 @@ window.LDU_DATA={
       "title": "Ver el mundo como aula, no como prisión",
       "description": "El mundo no es castigo, sino un lugar de aprendizaje.",
       "steps": [
-        "Ante cualquier dificultad, di: “Esto es una lección para mi",
+        "Ante cualquier dificultad, di: “Esto es una lección para mi liberación”.",
         "Pregunta: “¿Qué puedo aprender aquí sobre el perdón?”",
         "Agradece la oportunidad de sanar una percepción errónea."
       ]
@@ -235,7 +235,7 @@ window.LDU_DATA={
       "description": "La mente egoica hizo el mundo para distraernos.",
       "steps": [
         "Cuando te sientas atrapado en lo externo, reconoce la distracción.",
-        "Detente un momento y afirma: “Elijo recordar a Dios en lugar de",
+        "Detente un momento y afirma: “Elijo recordar a Dios en lugar de esto”.",
         "Permanece en silencio unos minutos."
       ]
     },
@@ -294,7 +294,7 @@ window.LDU_DATA={
       "title": "Escuchar la voz del Espíritu Santo",
       "description": "Aprender a reconocer la guía amorosa y pacífica del Espíritu.",
       "steps": [
-        "Ante cualquier decisión, respira y pregunta: “¿Qué haría el Amor",
+        "Ante cualquier decisión, respira y pregunta: “¿Qué haría el Amor aquí?”",
         "Espera en silencio una sensación, palabra o imagen que inspire paz.",
         "Si hay duda o miedo, espera. El Espíritu Santo nunca impone."
       ]
@@ -402,7 +402,7 @@ window.LDU_DATA={
       "title": "Ver la vida como un sueño continuo",
       "description": "Esta vida y otras son sólo escenas de un mismo sueño.",
       "steps": [
-        "Cuando pienses en tu “historia personal”, dite: “Nada de esto es",
+        "Cuando pienses en tu “historia personal”, dite: “Nada de esto es real”.",
         "Visualiza tu vida como una película en la pantalla de la mente.",
         "Recuerda: sólo el Amor es eterno; el resto es transitorio."
       ]
@@ -414,7 +414,7 @@ window.LDU_DATA={
       "title": "Perdonar el miedo a la muerte",
       "description": "La muerte es una idea del ego, no una realidad.",
       "steps": [
-        "Cuando surja el miedo a morir, recuerda: “No soy un cuerpo, soy",
+        "Cuando surja el miedo a morir, recuerda: “No soy un cuerpo, soy libre”.",
         "Afirma: “La muerte no existe, y yo soy tal como Dios me creó”.",
         "Entrégale el miedo al Espíritu Santo sin resistirlo."
       ]
@@ -439,7 +439,7 @@ window.LDU_DATA={
       "description": "Todo en tu vida puede ser usado como una oportunidad para perdonar.",
       "steps": [
         "Antes de empezar el día, di: “Hoy mi propósito es perdonar”.",
-        "Ante cualquier molestia, repite mentalmente: “Esto también es",
+        "Ante cualquier molestia, repite mentalmente: “Esto también es perdonable”.",
         "Cierra el día agradeciendo cada instante en que elegiste la paz."
       ]
     },
@@ -452,7 +452,7 @@ window.LDU_DATA={
       "steps": [
         "Siéntate en silencio al menos 5 minutos diarios.",
         "No pidas nada, no analices nada: sólo está presente.",
-        "Repite suavemente: “Estoy en casa. El miedo ya pasó. Ahora estoy"
+        "Repite suavemente: “Estoy en casa. El miedo ya pasó. Ahora estoy en paz”."
       ]
     },
     {
@@ -463,7 +463,7 @@ window.LDU_DATA={
       "description": "Nadie está realmente separado de ti.",
       "steps": [
         "Visualiza que cada persona con la que interactúas camina contigo.",
-        "Di internamente: “Vas conmigo, hermano mío, y caminamos hacia",
+        "Di internamente: “Vas conmigo, hermano mío, y caminamos hacia la luz”.",
         "Usa cualquier conflicto como oportunidad de recordar la unidad."
       ]
     },
@@ -488,7 +488,7 @@ window.LDU_DATA={
       "steps": [
         "Después de orar, no busques señales externas.",
         "Vive con presencia y apertura.",
-        "Permite que una idea llegue espontáneamente: ese es el “eco” de tu"
+        "Permite que una idea llegue espontáneamente: ese es el “eco” de tu oración."
       ]
     },
     {
@@ -570,7 +570,7 @@ window.LDU_DATA={
       "title": "No cambiar el mundo, cambiar tu mente sobre él",
       "description": "El Curso no busca modificar la forma, sino el pensamiento.",
       "steps": [
-        "Enfréntate al problema sin intentar resolverlo externamente",
+        "Enfréntate al problema sin intentar resolverlo externamente primero.",
         "Pregunta: “¿Qué estoy creyendo que esto significa?”",
         "Cambia el enfoque con el perdón antes de actuar."
       ]
@@ -596,7 +596,7 @@ window.LDU_DATA={
       "steps": [
         "En lugar de pedir salud, pide paz.",
         "Afirma: “Estoy dispuesto a sanar la causa, no el efecto”.",
-        "Confía en que si tu mente sana, el cuerpo se ajustará según"
+        "Confía en que si tu mente sana, el cuerpo se ajustará según convenga."
       ]
     },
     {
@@ -606,7 +606,7 @@ window.LDU_DATA={
       "title": "Agradecer la lección detrás del síntoma",
       "description": "Todo síntoma puede llevarte de vuelta a tu práctica espiritual.",
       "steps": [
-        "En vez de resistir el malestar, di: “Gracias por recordarme que",
+        "En vez de resistir el malestar, di: “Gracias por recordarme que necesito perdonar”.",
         "No luches con el síntoma; obsérvalo con amabilidad.",
         "Usa el momento como una puerta hacia la entrega."
       ]
@@ -630,7 +630,7 @@ window.LDU_DATA={
       "title": "Cambiar causa por efecto en tu mente",
       "description": "El ego cree que el mundo causa tus emociones; el Curso dice que tú proyectas el mundo.",
       "steps": [
-        "Ante una emoción, detente y pregúntate: “¿Qué estoy proyectando",
+        "Ante una emoción, detente y pregúntate: “¿Qué estoy proyectando aquí?”",
         "Reconoce: “Esto no viene de fuera, viene de mi elección interna”.",
         "Elige otra vez con el Espíritu Santo."
       ]
@@ -642,7 +642,7 @@ window.LDU_DATA={
       "title": "Dejar de buscar fuera lo que ya está dentro",
       "description": "El ego siempre te lleva fuera; el Espíritu te lleva dentro.",
       "steps": [
-        "Cada vez que sientas necesidad, dite: “No necesito nada que no",
+        "Cada vez que sientas necesidad, dite: “No necesito nada que no tenga ya”.",
         "Busca en tu interior la paz que estás proyectando fuera.",
         "Descansa en la certeza de que no te falta nada."
       ]
@@ -668,7 +668,7 @@ window.LDU_DATA={
       "steps": [
         "Siéntate en silencio sin expectativas.",
         "Repite mentalmente: “Estoy contigo. Sólo quiero recordar”.",
-        "Quédate en ese estado de entrega amorosa y deja que el Amor te"
+        "Quédate en ese estado de entrega amorosa y deja que el Amor te encuentre."
       ]
     },
     {
