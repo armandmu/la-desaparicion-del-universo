@@ -1,0 +1,19 @@
+{
+  "name": "La Desaparición del Universo · Cuaderno de prácticas",
+  "short_name": "Mi cuaderno",
+  "description": "51 técnicas en 17 capítulos, diario y seguimiento personal.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101720",
+  "theme_color": "#101720",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
